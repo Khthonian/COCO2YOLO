@@ -1,1 +1,6 @@
+# Python environment
 .venv/
+.ipynb_checkpoints/
+
+# Tool related
+outputs/
